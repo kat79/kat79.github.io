@@ -1,0 +1,84 @@
+Body{
+
+background-color: : purple;
+background-image: url(https://images.unsplash.com/photo-14
+  45462474364-0955cb455316?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyM
+  Dd9&auto=format&fit=crop&w=750&q=80)(https://unsplash.com/photos
+  /arGsFV-xIlQ);
+Font-family: arial, Helvetica,san-serf;
+
+A{
+
+Text-decoration:none;
+
+color:red;
+
+Container {
+
+Background-color:white;
+
+Width: 800px;
+
+Margin-left:auto;
+
+Margin-right:auto;
+
+
+
+Header {
+
+Background-color: blue;
+
+Color:white;
+
+Text-align:center;
+
+Padding:10px;
+
+}
+
+
+
+Content {
+
+Padding:10px;
+
+Nav{
+
+Width:180pm;
+
+Float:left;
+
+}
+
+
+
+Nav ul {
+
+List-style-type:none;
+
+Padding:0;
+
+Main{
+
+Width:600px;
+
+Float:right;
+
+}
+
+.slected{
+
+Font-weight:bold;
+
+Footer{
+
+Clear:both;
+
+Padding:10px;
+
+Background-color:purple;
+
+Text:white;
+
+Text-align:right;
